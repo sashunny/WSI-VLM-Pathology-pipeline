@@ -1,0 +1,13 @@
+openslide-bin
+openslide-python
+torch
+torchvision
+transformers<5
+faiss-cpu
+medmnist
+opencv-python
+scikit-image
+scikit-learn
+matplotlib
+pillow
+tqdm
